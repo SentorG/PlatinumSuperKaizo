@@ -10,6 +10,12 @@ To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcro
 ## The Great Marsh Pivot:
 I have created a [**Google Sheets spreadsheet**](https://docs.google.com/spreadsheets/d/17ogpFOxqWgTNwNOs4q2Gda6FU8mMM-UHDDz_XMbYpbw/edit?usp=sharing) for you to use when tracking the species and levels of Pokémon inside the Great Marsh area. There are a total of 8 days contained within the spreadsheet, but I highly doubt you'll need all of them.<br>To make your own copy: go to the linked page and click "File" > "Make a copy" for you to be able to input your Marsh Area data.<br>You can refer to the [**Platinum IronMON guide**](https://docs.google.com/document/d/1Qd4mbwQxreLnbRLA5tWRjsZPlCUlWVMjBvNjI9tu7gs/edit?tab=t.0#heading=h.qsa502koukjk) for detailed information pertaining to the Great Marsh area.
 
+### Which three TMs am I allowed for my pivot? -
+**The 3 "Safari TMs" are:**
+<br>- **TM 51**, obtainable by talking to the NPC nearest to the honey tree on [**Route 210 South.**](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_7#Route_210_(south))
+<br>- **TM 66**, obtainable by talking to the NPC next to the second bridge on [**Route 215.**](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_8#Route_215)
+<br>- **TM 63**, obtainable by talking to the NPC below Veilstone Gym in [**Veilstone city.**](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_8#Veilstone_City)
+
 ### How does the Great Marsh area work? -
 There exists "static" Pokémon encounters (stay in the same area regardless of the day) and "rotating" Pokémon encounters (a list of 15 Pokémon which can enter or exit the Great Marsh when the game crosses over into a new day). Rotating Pokémon have a selection % chance assigned to each one.<br>The Great Marsh Binoculars have been modified to allow the player to view every single encounter in each area through one view, using the A button to cycle to the next Pokémon. The first area will be displayed twice and we cannot fix that fact, apologies.<br>**For areas 1 and 2, the rotating Pokémon is the 3rd to last which was shown and for areas 3-6 it is the 2nd to last Pokémon.**
 ## Patch Contents List:
