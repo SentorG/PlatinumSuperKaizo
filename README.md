@@ -11,7 +11,7 @@ To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcro
 I have created a [**Google Sheets spreadsheet**](https://docs.google.com/spreadsheets/d/17ogpFOxqWgTNwNOs4q2Gda6FU8mMM-UHDDz_XMbYpbw/edit?usp=sharing) for you to use when tracking the species and levels of Pokémon inside the Great Marsh area. There are a total of 8 days contained within the spreadsheet, but I highly doubt you'll need all of them.<br>To make your own copy: go to the linked page and click "File" > "Make a copy" for you to be able to input your Marsh Area data.<br>You can refer to the [**Platinum IronMON guide**](https://docs.google.com/document/d/1Qd4mbwQxreLnbRLA5tWRjsZPlCUlWVMjBvNjI9tu7gs/edit?tab=t.0#heading=h.qsa502koukjk) for detailed information pertaining to the Great Marsh area.
 
 ### Which three TMs am I allowed for my pivot? -
-**The 3 "Safari TMs" are:**
+**The three "Safari TMs" are:**
 <br>- **TM 51**, obtainable by talking to the NPC nearest to the honey tree on [**Route 210 South.**](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_7#Route_210_(south))
 <br>- **TM 66**, obtainable by talking to the NPC next to the second bridge on [**Route 215.**](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_8#Route_215)
 <br>- **TM 63**, obtainable by talking to the NPC below Veilstone Gym in [**Veilstone city.**](https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_8#Veilstone_City)
